@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Current</string>
-    <string name="room_location">room location</string>
-    <string name="get_current_location">Get Current Location</string>
-    <string name="verify_location">Verify Location</string>
-</resources>
